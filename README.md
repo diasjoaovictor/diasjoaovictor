@@ -1,7 +1,7 @@
 ### Olá eu sou o João Dias
 
-- 🔭 Estou trabalhando com back-end
-- 🌱 Estudando Python
+- 👨🏽‍💻 Estou trabalhando como Full Stack Developer
+- 🌱 Estudando NodeJs
 
 <div>
   <a href="https://github.com/diasjoaovictor">
